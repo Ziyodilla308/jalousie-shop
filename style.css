@@ -462,6 +462,7 @@ input:focus{
 }
 .col-2 img{
     border-radius: 10px;
+    margin-left: -7px;
 }
 .navbar{
     background: radial-gradient(#9f9fa3, #00121b);
